@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=deekshak541&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hello...I'm Deeksha K currently pursuing my BE in Information Science and Engineering.<br>I'm a passionate front end developer.<br>I’m currently learning UI/UX designing.<br> How to reach me **deekshakunder541@gmail.com**<br>
+Hello...I'm Deeksha K currently pursuing my BE in Information Science and Engineering.<br>I'm a passionate front end developer.<br> How to reach me **deekshakunder541@gmail.com**<br>
 
 
 ## 🌐 Socials:
